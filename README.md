@@ -82,7 +82,7 @@ Filters in the dashboard
 - MySql
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/Ritesh1919/BblackCoffer.git`
+1. Clone the repository: `https://github.com/ramudu314/java-Developer-BlackCoffer.git`
 2. Open project in NetBeans: Open the cloned project into netbeans.
 3. Insert the CSV file into MySql using MySql Workbench : use the Database name as 'blackcoffer' and the table name as 'data'
 4. Run the program: Run the program using NetBeans IDE.
@@ -108,7 +108,7 @@ Filters in the dashboard
 
 ## Contact Information
 For questions or feedback, contact:
-- Name: Ritesh
-- Email: riteshkashyap9999@gmail.com
-- GitHub: github.com/Ritesh1919
+- Name: Kambagiri Ramudu
+- Email: vkambagiriramudu314@gmail.com
+- GitHub: github.com/ramudu314
 
